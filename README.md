@@ -2,7 +2,7 @@
 
 Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)
 
-![Travis](https://travis-ci.com/BereketGetachew1/Test-repo.svg?branch=main)
+![Travis](https://travis-ci.com/BereketGetachew1/Test-repo.svg?branch=master)
 
 ## Features
 
