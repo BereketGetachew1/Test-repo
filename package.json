@@ -1,5 +1,5 @@
 {
-  "name": "webpack-library-starter",
+  "name": "wepbacktest1",
   "version": "1.0.2",
   "description": "Produce universal library with webpack and es6",
   "main": "lib/webpack-library-starter.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/krasimir/webpack-library-starter.git"
+    "url": "https://github.com/BereketGetachew1/Test-repo.git"
   },
   "keywords": [
     "webpack",
@@ -24,12 +24,12 @@
     "umd",
     "commonjs"
   ],
-  "author": "Krasimir Tsonev",
+  "author": "BK",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krasimir/webpack-library-starter/issues"
+    "url": "https://github.com/BereketGetachew1/Test-repo"
   },
-  "homepage": "https://github.com/krasimir/webpack-library-starter",
+  "homepage": "https://github.com/BereketGetachew1/Test-repor",
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.51",
     "@babel/core": "^7.0.0-beta.51",
